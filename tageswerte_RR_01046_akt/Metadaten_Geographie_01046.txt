@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1046;   62.00; 51.8000;  7.7500;18920401;19110228;Drensteinfurt
+  1046;   74.00; 51.7600;  7.7900;19110301;19171231;Drensteinfurt
+  1046;   74.00; 51.7600;  7.7900;19220101;19291231;Drensteinfurt
+  1046;   64.00; 51.7995;  7.7282;19620215;19990228;Drensteinfurt
+  1046;   63.00; 51.7958;  7.7334;19990301;20040815;Drensteinfurt
+  1046;   72.00; 51.7586;  7.7534;20040816;20140427;Drensteinfurt
+  1046;   72.00; 51.7585;  7.7528;20140428;        ;Drensteinfurt

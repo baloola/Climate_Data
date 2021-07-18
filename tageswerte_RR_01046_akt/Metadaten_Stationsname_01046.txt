@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1046;Drensteinfurt                           ;18920401;19110228
+  1046;Walstedde                               ;19110301;19171231
+  1046;Walstedde                               ;19220101;19291231
+  1046;Drensteinfurt                           ;19620215;

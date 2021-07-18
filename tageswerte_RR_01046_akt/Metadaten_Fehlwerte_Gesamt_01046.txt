@@ -1,0 +1,5 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1046;Drensteinfurt;RS;15.01.2020;17.07.2021;4;Gesamt_Messzeitraum;eor;                                                                                                                                  
+1046;Drensteinfurt;RSF;15.01.2020;17.07.2021;4;Gesamt_Messzeitraum;eor;                                                                                                                                 
+1046;Drensteinfurt;SH_TAG;15.01.2020;30.04.2021;153;Gesamt_Messzeitraum;eor;                                                                                                                            
+1046;Drensteinfurt;NSH_TAG;15.01.2020;30.04.2021;153;Gesamt_Messzeitraum;eor;                                                                                                                           
