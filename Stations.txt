@@ -1,0 +1,7 @@
+01047 18280101 19921130            112     51.0557   13.7274 Dresden (Mitte)                          Sachsen                                                                                      
+01048 19260425 20210724            228     51.1278   13.7543 Dresden-Klotzsche *                       Sachsen                                                                                        
+01049 19950801 20041231            147     51.0582   13.6694 Dresden-Leutewitz                        Sachsen                                                                                         
+01050 19460101 20210724            112     51.0221   13.8470 Dresden-Hosterwitz  *                     Sachsen                                                                                         
+01051 19360101 20210724            120     51.0248   13.7750 Dresden-Strehlen  *                       Sachsen
+01693 19360801 20210724            107     51.0895   13.6321 Dresden-Gohlis  *                         Sachsen
+05282 19170101 19740630            246     51.1197   13.6744 Wahnsdorf bei Dresden                    Sachsen
